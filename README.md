@@ -23,4 +23,4 @@ https://github.com/user-attachments/assets/26b6899d-7be6-4432-8789-7c3daa843af5 
 Vocals:\
 https://github.com/user-attachments/assets/3c0aab05-5df8-406d-b52e-83abd85e2dd2 \
 Other:\
-https://github.com/user-attachments/assets/5130b2b6-4d85-437b-803c-1965960f93e9 \
+https://github.com/user-attachments/assets/5130b2b6-4d85-437b-803c-1965960f93e9
