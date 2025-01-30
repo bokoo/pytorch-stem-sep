@@ -24,3 +24,7 @@ Vocals:\
 https://github.com/user-attachments/assets/3c0aab05-5df8-406d-b52e-83abd85e2dd2 \
 Other:\
 https://github.com/user-attachments/assets/5130b2b6-4d85-437b-803c-1965960f93e9
+
+### Further improvements
+Data loading and processing can be revised as it will not work well for larger datasets since it's loading everything into memory.
+The model can be further improved by adding a Spectrogram model to be combined with the raw wave model and also improving the bottleneck layer by changing it to a Transformer for example.
